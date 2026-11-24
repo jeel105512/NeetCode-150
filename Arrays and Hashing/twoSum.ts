@@ -29,7 +29,7 @@ function twoSum(nums: number[], target: number): number[] {
     }
 
     return [];
-}
+};
 
 console.log(
     `nums = [3,4,5,6], target = 7`,
